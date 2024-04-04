@@ -26,3 +26,9 @@ El contenido del curso se divide en 4 sesiones.
 * Validacion de los datos.
 * Autenticación.
 * Autorización.
+
+
+## Observaciones
+* Los alumnos son evaluados de manera grupal e individual en el desarrollo del curso.
+* La **NOTA** minima aprobatoria es de trece(13) para todo tipo de evaluación.
+* Las notas serán registradas en la plataforma del Campus evolution.
